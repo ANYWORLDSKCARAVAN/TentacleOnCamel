@@ -36,3 +36,15 @@ LD20
 ## PANDORA
 
 А по части неба я рыжий славянский дракон в небе Пандоры из фильма Аватар, которого в фильме Аватар не было и копирайт мой: Copyright © 2021 Евгений Григорьевич Филиппов родом из роддома Ангарска улица Бульварная и все вовлечённые люди и субъекты. All Rights Reserved.
+
+
+
+
+
+
+
+### LD46 `<SheikhAshVabar>` я побрил гугла https://github.com/ANYWORLDSKCARAVAN/TentacleOnCamel/pull/2/commits/18b113d4b1fcb633d7dd8accf2806c69cdc4cdc4#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R45
+`<SheikhAshVabar>` теперь мой домен https://i2p.now.sh/
+`<SheikhAshVabar>` халява
+`* xdrfcvgy (xdrfcvgy@njhxwyn7rm7haxwnoinxo2sommvys2usz4bylqlslz4atqbajpfa.b32.i2p) has joined`
+`<SheikhAshVabar>` i2p.app выброшу не{*фига*} гуглу платить`
