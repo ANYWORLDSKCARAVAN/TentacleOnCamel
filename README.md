@@ -15,5 +15,5 @@ LINE DISCIPLINE10 10TACLE
 
 
 
-'18
-IBLIS https://ashvabra.now.sh/
+'LD18
+IBLIS https://ashvabra.now.sh/ https://github.com/ScriptableWorld https://github.com/ScriptableWorlds
