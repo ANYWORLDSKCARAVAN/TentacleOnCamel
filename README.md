@@ -48,3 +48,7 @@ LD20
 `<SheikhAshVabar>` халява
 `* xdrfcvgy (xdrfcvgy@njhxwyn7rm7haxwnoinxo2sommvys2usz4bylqlslz4atqbajpfa.b32.i2p) has joined`
 `<SheikhAshVabar>` i2p.app выброшу не{*фига*} гуглу платить`
+
+### UNCONDITIONAL UNIVERSAL BASIC INCOME FOR ALL MULTICOSMOSES
+
+https://facebook.com/anantagunauubi s/AnantaGunaUnconditionalUniversalBasicIncomerNowShGatsby/AnantaGunaUnconditionalUniversalBasicIncomeNowShGatsby https://github.com/PluralityNET https://github.com/ALPHARUSOPENCOLLECTIVE
