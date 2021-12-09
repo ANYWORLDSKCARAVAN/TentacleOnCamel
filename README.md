@@ -16,4 +16,4 @@ LINE DISCIPLINE10 10TACLE
 
 
 'LD18
-IBLIS https://ashvabra.now.sh/ https://github.com/ScriptableWorld https://github.com/ScriptableWorlds https://github.com/THREEPOEMS https://github.com/POSTMODERNDOMAINS 
+IBLIS https://ashvabra.now.sh/ https://github.com/ScriptableWorld https://github.com/ScriptableWorlds https://github.com/THREEPOEMS https://github.com/POSTMODERNDOMAINS https://github.com/POSTMODERNDNS
