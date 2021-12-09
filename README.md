@@ -51,4 +51,4 @@ LD20
 
 ### UNCONDITIONAL UNIVERSAL BASIC INCOME FOR ALL MULTICOSMOSES
 
-https://facebook.com/anantagunauubi s/AnantaGunaUnconditionalUniversalBasicIncomerNowShGatsby/AnantaGunaUnconditionalUniversalBasicIncomeNowShGatsby https://github.com/PluralityNET https://github.com/ALPHARUSOPENCOLLECTIVE
+https://facebook.com/anantagunauubi s/AnantaGunaUnconditionalUniversalBasicIncomerNowShGatsby/AnantaGunaUnconditionalUniversalBasicIncomeNowShGatsbyGPLV3 https://github.com/PluralityNET https://github.com/ALPHARUSOPENCOLLECTIVE https://uubi.now.sh/
