@@ -25,3 +25,10 @@ LD20
 <SheikhAshVabar> недоделанная
 <SheikhAshVabar> нада бы в неё влиться
 ```
+```
+<nickname> SheikhAshVabar, можешь влиться в RetroShare и спасти ядро оного от преждевременной смерти - переписав ключевую библиотеку.
+<SheikhAshVabar> я уже влился в рш
+<nickname> Поговаривают там хуже чем в ядре Linux'a.
+<SheikhAshVabar> оу
+<SheikhAshVabar> кто мне за это заплатит 10 000 битков скажи
+```
