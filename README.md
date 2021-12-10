@@ -42,7 +42,7 @@ LD20
 
 
 
-
+### LD45 https://github.com/USSR5Sec https://github.com/USSR220Sec
 ### LD46 `<SheikhAshVabar>` я побрил гугла https://github.com/ANYWORLDSKCARAVAN/TentacleOnCamel/pull/2/commits/18b113d4b1fcb633d7dd8accf2806c69cdc4cdc4#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R45
 `<SheikhAshVabar>` теперь мой домен https://i2p.now.sh/
 `<SheikhAshVabar>` халява
